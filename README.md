@@ -1,1 +1,3 @@
-# task-4
+task 4: Classification with Logistic Regression focuses on building a binary classification model using logistic regression, a fundamental machine learning algorithm used for predicting categorical outcomes. In this task, you're expected to select a suitable binary classification dataset—such as house prediction dataset—and use it to train and evaluate a logistic regression model using Python libraries like Scikit-learn, Pandas, and Matplotlib.
+
+The process begins with data preprocessing steps, including splitting the dataset into training and testing sets and standardizing the feature values. Once the data is prepared, you will train a logistic regression model and make predictions on the test data. Evaluation of the model involves key metrics such as the confusion matrix, precision, recall, and ROC-AUC score, all of which help in understanding the effectiveness and accuracy of the classifier.
